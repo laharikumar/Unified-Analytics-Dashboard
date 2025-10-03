@@ -79,12 +79,6 @@ Visualization & Dashboard: Power BI, Power Query, DAX
 
 Optional: Python for preprocessing or advanced calculations
 
-🚀 How to Use
-
-Clone this repository:
-
-git clone https://github.com/your-username/unified-analytics-dashboard.git
-
 
 Open Power BI Desktop and load the PBIX file provided.
 
